@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://luispalronson.github.io/portal-fishgame-com/sitemap.xml
